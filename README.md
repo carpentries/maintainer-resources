@@ -3,7 +3,7 @@
 This repository will serve as a place for maintainer resources in  additon to an archive for the maintainer community meeting minutes, held every third Wednesday of the month.
 
 
-Blank maintainer meeting agenda:
+## Blank maintainer meeting agenda:
 
 ```
 ![The Carpentries logo](https://codimd.carpentries.org/uploads/upload_b540836e1a3d8721461f64b24a9526d4.png)
@@ -71,5 +71,40 @@ Notetaker (please add notes within agenda below):
 ###### Questions from Co-working session
 
 ###### For next meeting
+
+```
+
+## Coworking Corral additional boilerplate:
+
+```
+### Coworking Corral, Feb 3
+
+**Date and time 1:** https://www.timeanddate.com/worldclock/fixedtime.html?msg=Co-Working+Session&iso=YYYYMMDDTXX
+**Date and time 2:** https://www.timeanddate.com/worldclock/fixedtime.html?msg=Co-Working+Session&iso=YYYYMMDDTXX
+**Zoom:**     https://carpentries.zoom.us/my/carpentriesroom2?pwd=WmVCOUlPUm1laFk5SUp1UWg5cjhEUT09
+
+   Password is **202020**
+
+-----
+
+##  Coworking Corral, Feb 3
+
+1st meeting:
+Attending (1st Meeting):
+
+- Daniel Chen (he/him), Virginia Tech, Maintainer Community Lead (aka all the lessons)
+
+2nd meeting:
+Attending (2nd Meeting): 
+
+- Daniel Chen (he/him), Virginia Tech, Maintainer Community Lead (aka all the lessons)
+
+### Agenda:
+
+#### 1. Introductions
+
+#### 2. What do you want to work on today?
+
+#### 3. Questions for matinatiners meeting
 
 ```
